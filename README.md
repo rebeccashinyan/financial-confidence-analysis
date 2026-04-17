@@ -8,7 +8,7 @@ This project uses the **2024 National Financial Capability Study (NFCS) State-by
 - high confidence / low competence
 - high confidence / high competence
 
-The project also includes predictive modeling to test whether selected financial behavior variables can predict a person’s confidence or competence level. The project title, team framing, and dataset context are reflected in the presentation. :contentReference[oaicite:12]{index=12}
+The project also includes predictive modeling to test whether selected financial behavior variables can predict a person’s confidence or competence level. The project title, team framing, and dataset context are reflected in the presentation. {index=12}
 
 ---
 
