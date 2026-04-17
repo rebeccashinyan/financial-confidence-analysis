@@ -8,7 +8,7 @@ This project uses the **2024 National Financial Capability Study (NFCS) State-by
 - high confidence / low competence
 - high confidence / high competence
 
-The project also includes predictive modeling to test whether selected financial behavior variables can predict a person’s confidence or competence level. The project title, team framing, and dataset context are reflected in the presentation. {index=12}
+The project also includes predictive modeling to test whether selected financial behavior variables can predict a person’s confidence or competence level. The project title, team framing, and dataset context are reflected in the presentation. 
 
 ---
 
@@ -26,7 +26,7 @@ This project focuses on three main questions:
 
 **Source:** 2024 National Financial Capability Study (NFCS) State-by-State Survey  
 **Population:** U.S. adults age 18+ across all 50 states  
-**Approximate size:** ~25,539 respondents :contentReference[oaicite:13]{index=13}
+**Approximate size:** ~25,539 respondents
 
 The notebook uses:
 - `M4` for self-reported financial confidence
@@ -180,7 +180,7 @@ Overall, the notebook’s results suggest that **competence is somewhat easier t
 ## Files
 
 - `financial_confidence_analysis.ipynb` — main notebook
-- presentation slides — project presentation / storytelling deck :contentReference[oaicite:14]{index=14}
+- presentation slides — project presentation / storytelling deck 
 
 ---
 
@@ -209,4 +209,4 @@ Overall, the notebook’s results suggest that **competence is somewhat easier t
 Presentation credits list:
 - Makaila Kim
 - Alex Reifel
-- Rebecca Wang :contentReference[oaicite:15]{index=15}
+- Rebecca Wang 
